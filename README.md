@@ -1,6 +1,6 @@
 <h3 align="center">sad programmer who love coding</h3>
 
-- 🌱 I’m currently learning **network + ,http protocol**
+- 🌱 I’m currently learning **owasp **
 
 - 💬 Ask me about **nodejs,expressjs,nestjs,mongodb**
 
