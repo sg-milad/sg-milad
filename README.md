@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm milad</h1>
 <h3 align="center">a programmer who loves coding</h3>
 
-- 🌱 I’m currently learning **cqrs.**
+- 🌱 I’m currently learning **gRPC.**
 
 - 💬 Ask me about **nestjs, express, mongodb,postgres**
 
