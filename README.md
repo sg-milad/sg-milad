@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm milad</h1>
 <h3 align="center">a programmer who loves coding</h3>
 
-- 🌱 I’m currently learning **gRPC.**
+- 🌱 I’m currently learning **owasp api security.**
 
-- 💬 Ask me about **nestjs, express, mongodb,postgres**
+- 💬 Ask me about **nestjs, express, mongodb, postgres**
 
 - 📫 How to reach me **miladbachari14@gmail.com**
 
