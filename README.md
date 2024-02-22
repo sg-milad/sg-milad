@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm milad</h1>
 <h3 align="center">a programmer who loves coding</h3>
 
-- 🌱 I’m currently learning **data structure & algorithm.**
+- 🌱 I’m currently learning **Blockchain.**
 
-- 💬 Ask me about **nestjs, express, mongodb, postgres**
+- 💬 Ask me about **nestjs, express, mongodb, postgres, docker.**
 
 - 📫 How to reach me **miladbachari14@gmail.com**
 
