@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm milad</h1>
-<h3 align="center">a programmer who loves coding</h3>
+<h3 align="center">Decentralized Dreamer</h3>
 
 - 🌱 I’m currently learning **Blockchain.**
 
