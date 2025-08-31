@@ -17,11 +17,3 @@
   <strong>Ethereum (ETH):</strong><br/>
   <code>0x4e14a74024abc151199e968bbac0bd0158482c05</code>
 </p>
-<p align="center">
-  <strong>Solana (SOL):</strong><br/>
-  <code>AXZWUBhK7PnfgBqYj2BtCENLrnzv8MPL7DzMfm5wB1fM</code>
-</p>
-<p align="center">
-  <strong>TRX :</strong><br/>
-  <code>TGBNmmTUes1Gv11gikWeCuv1U1dAD8ABGV</code>
-</p>
