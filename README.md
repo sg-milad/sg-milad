@@ -11,7 +11,7 @@
 
 <h2 align="center">💖 Support Me with Crypto</h2>
 <p align="center">
-  If you like my work, you can send crypto donations to these addresses:
+  If you like my work, you can send crypto donations to this address:
 </p>
 <p align="center">
   <strong>Ethereum (ETH):</strong><br/>
