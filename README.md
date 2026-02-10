@@ -5,6 +5,4 @@
 
 - 🌱 I’m currently learning **Blockchain.**
 
-- 💬 Ask me about **Nodejs, Blockchain, Smart contracts,**
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sg-milad&show_icons=true&locale=en&layout=compact" alt="sg-milad" /></p>
+- 💬 Ask me about **Nodejs, Blockchain, Smart contracts**
